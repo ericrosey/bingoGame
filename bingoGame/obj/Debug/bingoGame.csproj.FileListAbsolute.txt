@@ -1,0 +1,10 @@
+C:\Users\12152\source\repos\bingoGame\bingoGame\bin\Debug\bingoGame.exe.config
+C:\Users\12152\source\repos\bingoGame\bingoGame\bin\Debug\bingoGame.exe
+C:\Users\12152\source\repos\bingoGame\bingoGame\bin\Debug\bingoGame.pdb
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.csprojAssemblyReference.cache
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.Form1.resources
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.Properties.Resources.resources
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.csproj.GenerateResource.cache
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.csproj.CoreCompileInputs.cache
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.exe
+C:\Users\12152\source\repos\bingoGame\bingoGame\obj\Debug\bingoGame.pdb
